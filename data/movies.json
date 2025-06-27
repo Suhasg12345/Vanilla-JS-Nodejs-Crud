@@ -1,0 +1,37 @@
+[
+  {
+    "id": "c1a4e2f6-7e6d-4c82-9c6e-bff2f2dbf789",
+    "title": "Inception",
+    "year": 2010,
+    "genre": "Sci-Fi",
+    "rating": 8.8
+  },
+  {
+    "id": "d4b8a73e-5c44-4d30-988f-92c6c3d08fbb",
+    "title": "The Godfather",
+    "year": 1972,
+    "genre": "Crime",
+    "rating": 9.2
+  },
+  {
+    "id": "f948e71c-9346-4a92-8f1f-76a9fd5d56a9",
+    "title": "Interstellar",
+    "year": 2014,
+    "genre": "Adventure",
+    "rating": 8.6
+  },
+  {
+    "id": "b9e06f21-8d2e-4cb5-b688-daa4d372ab89",
+    "title": "Parasite",
+    "year": 2019,
+    "genre": "Thriller",
+    "rating": 8.6
+  },
+  {
+    "id": "1f6f9bc9-d812-44e4-a4bb-6a2aafe15d48",
+    "title": "KGR-8",
+    "year": 1972,
+    "genre": "Horror",
+    "rating": 7.2
+  }
+]
