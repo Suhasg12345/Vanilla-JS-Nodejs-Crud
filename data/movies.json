@@ -29,9 +29,16 @@
   },
   {
     "id": "1f6f9bc9-d812-44e4-a4bb-6a2aafe15d48",
-    "title": "KGR-8",
+    "title": "KGF 2",
     "year": 1972,
     "genre": "Horror",
+    "rating": 7.2
+  },
+  {
+    "id": "12wet456f9bc9-d812-44e4-a4bb-6a2aafe15d48",
+    "title": "Avanger",
+    "year": 2020,
+    "genre": "Thriller",
     "rating": 7.2
   }
 ]
