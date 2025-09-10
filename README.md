@@ -1,2 +1,2 @@
 # Vanilla-JS-Nodejs-Crud.
-Authour:Suhas G
+Author:Suhas G
